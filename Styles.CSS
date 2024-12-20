@@ -1,0 +1,119 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+#Theory{
+    border: solid 0px;
+    width: 700px;
+    height: 64px;
+    top: 100px;
+    left: 60px;
+    text-align: center;
+    margin-left: 450px;
+}
+#frame1{
+    border: solid 0px;
+    width: 500px;
+    height: 450px;
+    top: 314px;
+    left: 67px;
+    gap: 30px;
+}
+#BigBang{
+    border: solid 0px;
+    width: 500px;
+    height: 90px;
+    gap: 24px;
+    color: rgb(88, 165, 252);
+}
+h2{
+    color: orange;
+}
+
+#frame2{
+    border: solid 2px red;
+    width: 800px;
+    height: 650px;
+    top: 1077px;
+    left: 74px;
+    background-color: rgb(242, 180, 180);
+}
+h3{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+#text1{
+    border: solid 0px;
+    width: 500px;
+    text-align: center;
+    margin-left: 200px;
+    color: rgb(250, 96, 96);
+}
+#image{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+
+#frame3{
+    border: solid 0px;
+    width: 749px;
+    height: 1,041px;
+    top: 1895px;
+    left: 74px;
+    gap: 30px;
+    margin-top: 10px;
+}
+
+#string{
+    border: solid red 0px;
+    height: 80px;
+    text-align: right;
+    font-size: 50px;
+    margin-bottom: 2px;
+    color: blue;
+}
+#text3{
+    border: solid 3px blue;
+    width: 696px;
+    height: 222px;
+    padding: 24px;
+    gap: 10px;
+    background-color: rgb(244, 175, 198);
+}
+
+
+#imagee{
+    max-width: 12px;
+    float:left;
+    margin-right: 6px;
+}
+#image2{
+    max-width: 12px;
+    float:left;
+    margin-right: 6px;
+
+}
+#image4{
+    max-width: 12px;
+    float:left;
+    margin-right: 6px;
+
+}
+#Mainphoto{
+    width: 696px;
+    height: 415px;
+}
+#night1{
+    color: orange;
+}
+#night2{
+    color: orange;
+}
+#night3{
+    color: orange;
+}
+h5{
+    font-size: 25px;
+}
